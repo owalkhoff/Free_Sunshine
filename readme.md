@@ -18,7 +18,11 @@ A g☼ggab☼t consists of a printed circuit board (pcb), one or two solar cells
 
 ## How can I build my own g☼ggab☼t?
 
-We have created a pamphlet with a short description of the parts and some building instructions.
+We have created a pamphlet with a short description of the parts and some building instructions:
+
+[Pamphlet in English](pdf/goggabot_pamphlet_english.pdf)
+
+[Pamphlet in Zulu](pdf/goggabot_pamphlet_zulu.pdf)
 
 ## How does the circuit work?
 
