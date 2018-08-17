@@ -6,7 +6,7 @@ Promoting mechatronic art & sustainable energy in South Africa one g☼ggab☼t 
 
 It is about spreading access to and an interest in electronics and art.
 
-It also raises awareness about sustainable energy and the current development in South Africa of legislation regarding small scale solar energy generators. Find out more on the project website:
+It also raises awareness about sustainable energy and the current development in South Africa of legislation regarding small scale solar energy generators. The project is driven by Miranda Moss and Oliver Walkhoff and is made possible with the support of the Swiss Arts Council Pro Helvetia. Find out more on the project website:
 
 [freesunshine.org](http://freesunshine.org)
 
