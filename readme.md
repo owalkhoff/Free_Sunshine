@@ -30,9 +30,13 @@ A schematic and a short description of the g☼ggab☼t circuit is also on the p
 
 The pcb was created using KiCad Version 4.0.7. The boards were manufactured by PCBWay, and assembled by R2 manufacturing.
 
-This is a rendering of the front:
+This is a rendering of the front, with components:
 
 <img src="images/goggabot_20180530_3d_f_persp.png" alt="pcb front" />
+
+And here is the back:
+
+<img src="images/goggabot_20180530_3d_b_persp.png" alt="pcb back" />
 
 ## License
 
