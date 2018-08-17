@@ -23,3 +23,7 @@ The g☼ggab☼t circuit was contributed by Uwe Schüler of Kulturgüter-Schuppe
 ## How was the printed circuit board made?
 
 The pcb was created using KiCad Version 4.0.7. The boards were manufactured by PCBWay, and assembled by R2 manufacturing.
+
+## License
+
+The g☼ggab☼t circuit is CC NC BY kulturgueter-schuppen.de.
