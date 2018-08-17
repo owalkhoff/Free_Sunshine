@@ -1,0 +1,7 @@
+Resistor,R1,1M,R_1206
+Resistor,R2,180k,R_1206
+Resistor,R3,1M,R_1206
+Resistor,R4,1k,R_1206
+Transistor,Q1,BC807,SOT-23
+Transistor,Q2,BC817,SOT-23
+Transistor,Q3,BC817,SOT-23
