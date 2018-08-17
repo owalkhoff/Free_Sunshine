@@ -32,7 +32,9 @@ A schematic and a short description of the g☼ggab☼t circuit is also on the p
 
 ## How was the pcb made?
 
-The pcb was created using KiCad Version 4.0.7. The boards were manufactured by PCBWay, and assembled by R2 manufacturing.
+The pcb was created using KiCad Version 4.0.7. The boards were manufactured by PCBWay in China, and assembled by R2 Manufacturing, Glattbrugg, Switzerland.
+
+The KiCad and Gerber files which were used for production can be found [in this repository](goggabot).
 
 This is a rendering of the front, with components:
 
